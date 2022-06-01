@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakhi jha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img  alt=”Coding” width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif">
+<img  alt=”Coding” style="margin-left:auto;margin-right:auto;" width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif">
 <img  align=”left” alt=”Coding” width=”400” src=”https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif”>
 
 
