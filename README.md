@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakhi jha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img  alt=”Coding” class="center" width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif">
-<img  align=”left” alt=”Coding” width=”400” src=”https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif”>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakhi2207&label=Profile%20views&color=0e75b6&style=flat" alt="rakhi2207" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakhi2207" alt="rakhi2207" /></a> </p>
 
 - 🌱 I’m currently learning **node js**
 
@@ -17,6 +12,11 @@
 - 📫 How to reach me **jharakhi1211@gmail.com**
 
 - ⚡ Fun fact **Computers don’t have common sense so algorithms have to be really clear for them to understand.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakhi2207&label=Profile%20views&color=0e75b6&style=flat" alt="rakhi2207" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakhi2207" alt="rakhi2207" /></a> </p>
+
 
 <h2 align="center">Connect with me:</h2>
 <p align="left">
