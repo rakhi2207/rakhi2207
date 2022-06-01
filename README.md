@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakhi jha</h1>
-<img  alt=”Coding” align="center" width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif">
+<div styie="align:center;"><img  alt=”Coding”  width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif"></div>
 
 
 - 🌱 I’m currently learning **node js**
