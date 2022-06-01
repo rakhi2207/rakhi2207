@@ -34,7 +34,7 @@
 
 <h2 align="left">Top Languages</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakhi2207&show_icons=true&locale=en&layout=compact" alt="rakhi2207" /></p>
-<br>
+
 <h2 align="left">Github Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakhi2207&show_icons=true&locale=en" alt="rakhi2207" /></p>
 
