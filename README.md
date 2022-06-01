@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rakhi jha</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 <img  alt=”Coding” class="center" width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif">
 
 
@@ -33,7 +32,7 @@
 
 
 <h2 align="left">Top Languages</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakhi2207&show_icons=true&locale=en&layout=compact" alt="rakhi2207" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakhi2207&show_icons=true&locale=en&layout=compact" alt="rakhi2207" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rakhi2207&show_icons=true&locale=en" alt="rakhi2207" /></p>
 
