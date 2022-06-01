@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **Computers don’t have common sense so algorithms have to be really clear for them to understand.**
 
+<h2 align="left">Trophies</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakhi2207&label=Profile%20views&color=0e75b6&style=flat" alt="rakhi2207" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakhi2207" alt="rakhi2207" /></a> </p>
