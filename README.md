@@ -32,7 +32,8 @@
 
 
 <h2 align="left">Top Languages</h2>
-<p><img align="center" src="![github](https://user-images.githubusercontent.com/61816749/173362642-ad979b92-f891-4051-9f66-c0589b7b94bb.png)" alt="rakhi2207" /></p>
+<p><img align="center" src="![github](https://user-images.githubusercontent.com/61816749/173363030-8ef65d21-1c8f-4762-b521-a63fcc498b7a.png)
+" alt="rakhi2207" /></p>
 <h2 align="left">Github Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rakhi2207&show_icons=true&locale=en" alt="rakhi2207" /></p>
 <h2 align="left">Streak</h2>
