@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **learning node js**
 
-- 💬 Ask me about **Javascript,java,C,J2SE,PHP**
+- 💬 Ask me about **Javascript,java,C,J2SE,PHP,VueJs,Typescript**
 
 - 📫 How to reach me **jharakhi1211@gmail.com**
 
