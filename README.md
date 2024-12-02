@@ -2,11 +2,11 @@
 <p align="center"><img  alt=”Coding”  width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif"></p>
 
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **react js**
 
-- 🤝 I’m looking for help with **learning node js**
+- 🤝 I’m looking for help with **learning react js**
 
-- 💬 Ask me about **Javascript,java,C,J2SE,PHP,VueJs,Typescript**
+- 💬 Ask me about **Javascript,java,C,J2SE,PHP,VueJs,Typescript, Node js, Nest Js, Mysql**
 
 - 📫 How to reach me **jharakhi1211@gmail.com**
 
